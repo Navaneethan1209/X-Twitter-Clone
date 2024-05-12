@@ -1,0 +1,86 @@
+.signup {
+    border: 1px solid grey;
+    height: 500px;
+    width: 550px;
+    margin-top: 50px;
+    margin-left: 350px;
+    border-radius: 20px;
+    background-color: black;
+    
+}
+.X {
+    font-size: 17px;
+}
+#close {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+}
+#close:hover {
+     color: grey;
+}
+.create {
+    padding-left: 80px;
+    margin-top: 50px;
+    
+}
+.details1{
+    padding-top: 10px;
+}
+#d1 {
+    height: 50px;width: 380px;color: black;border: 3px solid white;border-radius: 5px;
+}
+#d1:hover {
+    border-color: #1D9BF0;
+}
+.details2{
+    padding-top: 10px;
+}
+#d2 {
+    height: 50px;width: 380px;color: black;border: 3px solid white;border-radius: 5px;
+}
+#d2:hover {
+    border-color: #1D9BF0;
+}
+.details3{
+    padding-top: 10px;
+}
+#d3 {
+    height: 50px;width: 380px;color: black;border: 3px solid white;border-radius: 5px;
+}
+#d3:hover {
+    border-color: #1D9BF0;
+}
+.details4{
+    padding-top: 10px;
+}
+#d4 {
+    height: 50px;width: 380px;color: black;border: 3px solid white;border-radius: 5px;
+}
+#d4:hover {
+    border-color: #1D9BF0;
+}
+.details5{
+    padding-top: 10px;
+}
+#d5 {
+    height: 50px;width: 380px;color: black;border: 3px solid white;border-radius: 5px;
+}
+#d5:hover {
+    border-color: #1D9BF0;
+}
+#sub {
+    color: white;
+    background-color: grey;
+    border-radius: 20px;
+    height: 40px;
+    width: 140px;
+    text-align: center;
+    border: 0px;
+}
+.Submit {
+    padding-left: 100px;
+    padding-top: 15px;
+    text-align: left;
+    padding-left: 250px;
+}

@@ -1,0 +1,324 @@
+.Body {
+     background-color: black; 
+     color: white; 
+                                                                                 
+}/*body*/   
+.home {
+    display: flex;
+}/*home main div*/   
+.grid1 {
+    cursor: pointer;
+    margin-top: 1px;
+    margin-left: 120px;
+    font-size: 26px;
+    border-right: 1px solid grey;
+    padding-right: 15px;
+}/*grid1*/   
+#i:hover{
+    background-color: grey;
+}/*i hover*/   
+.grid2 {
+    margin-top: 1px;
+    margin-left: 0px;
+    font-size: 26px;
+    border-right: 1px solid grey;
+    padding-right: 0px;
+    
+     
+}/*grid2 main */  
+#g2 {
+    margin-bottom: -10px;
+    margin-left: 55px;
+}/*g2 border is not working need to crt*/ 
+
+.foryou {
+    position: relative;
+    top: -10px;
+    border: 0px;
+    background-color: black;
+    color: white;
+    font-size: large;
+    margin-left: -100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    padding-right: 90px;
+    text-align: center;
+    cursor: pointer;
+    
+}/*for you button*/  
+.following {
+    position: relative;
+    top: -10px;
+    border: 0px;
+    background-color: black;
+    color: white;
+    font-size: large;
+    margin-left: -20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 90px;
+    text-align: center;
+    cursor: pointer;
+    border-left: 1px solid grey;
+}/*following button*/  
+.foryou:hover {
+    background-color: rgb(58, 56, 56);
+}/*for you button hover*/  
+.following:hover {
+    background-color: rgb(58, 56, 56);
+}/*following button hover*/  
+
+.grid3{
+    margin-top: 10px;
+    margin-left: 40px;
+    font-size: 15px;
+}/*grid2*/  
+#Setting {
+    font-size: 20px;
+    margin-left: 20px;
+    position: relative;
+    top: -12px;
+    border-radius: 100px;
+    cursor: pointer;
+    
+}/*setting icon*/  
+#Setting:hover {
+    background-color: rgb(161, 156, 156);
+    background-image:radial-gradient(circle);
+    height: 20px;
+    width: 23px;    
+}/*setting icon hover*/  
+#searchbar {
+    border-radius: 50px;
+    background-color: rgb(58, 56, 56);
+    height: 50px;
+    width: 340px;
+    margin-bottom: -11px;
+    border: 0px;
+}/*searchbar grid3*/  
+#search:hover {
+    background-color: blue;    
+}/*searchbar grid3 hover*/  
+.subscription {
+     padding-top: 5px;
+     -webkit-padding-start: 15px;
+     -webkit-padding-end: 15px;
+     background-color:  rgb(58, 56, 56);;
+     height: 170px;
+     width:334px;
+     border-radius: 25px;
+     margin-bottom: 20px;
+}/*subscription div grid3*/ 
+.subscriber {
+    border-radius: 25px; 
+    color: white;
+    background-color: #1D9BF0;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border: 0px;
+} 
+.subscriber:hover{
+    background-color: #1961ce ;
+
+}/*subscriber button hover is not working need to crt in grid3*/  
+.trending {
+    padding-top: 5px;
+    background-color:  rgb(58, 56, 56);;
+    height: 570px;
+    width:334px;
+    border-radius: 25px;
+    
+}/*subscription div grid3*/ 
+p.t11 {
+    font-size: 13px;
+    color: rgb(191, 198, 205); 
+}
+.t1:hover {
+    background-color: rgb(71, 75, 75);
+    cursor: pointer;
+}
+.t2:hover {
+    background-color: rgb(71, 75, 75);
+    cursor: pointer;
+}
+.t3:hover {
+    background-color: rgb(71, 75, 75);
+    cursor: pointer;
+}
+.t4:hover {
+    background-color: rgb(71, 75, 75);
+    cursor: pointer;
+}
+.t5:hover {
+    background-color: rgb(71, 75, 75);
+    cursor: pointer;
+    
+}
+.follow {
+    margin-top: 25px;
+    margin-left: 2px;
+    padding-top: 3px;
+    padding-left: 13px;
+    background-color:  rgb(58, 56, 56);;
+    height: 340px;
+    width:334px;
+    border-radius: 25px;
+}/*subscription div grid3*/
+.whatshappen_div {
+    display: flex;
+    margin-top: 30px;
+    padding-left: 74px;
+    font-size: 16px;
+}
+.post1a {
+    border-radius: 50%;
+    border: 0px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: medium;
+}
+.post1b {
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: medium;
+}
+.post1c {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.comment{
+    color:rgb(122, 128, 138);
+}
+.comment:hover {
+    color: blue;
+    
+}
+.repost{
+    color:rgb(122, 128, 138);
+}
+.repost:hover {
+    color: rgb(103, 246, 103);
+}
+.likes{
+    color:rgb(122, 128, 138);
+}
+.likes:hover {
+    color: rgb(207, 81, 102);
+}
+.poll{
+    color:rgb(122, 128, 138)
+}
+.poll:hover {
+    color:#1D9BF0 ;
+}
+.bookmark{
+    color:rgb(122, 128, 138);
+}
+.bookmark:hover {
+    color: #1D9BF0;
+}
+.share{
+    color:rgb(122, 128, 138);
+}
+.share:hover {
+    color: #1D9BF0;
+}
+.post2a {
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 70px;
+    padding-right: 20px;
+}
+.post3a {
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 70px;
+    padding-right: 20px;
+}
+.post3b {
+    display: flex;
+   
+    margin-left: 50px;
+    font-size: 20px;
+}
+.post4b {
+    text-align:left ;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: medium;
+}
+.samsung {
+    border: 1px solid grey; 
+    border-radius: 25px;
+}
+.post4c {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.post4d {
+    display: flex;
+    font-size: 17px;
+    padding-left: 15px;
+}
+.apple {
+    border: 1px solid grey; 
+    border-radius: 25px;
+}
+.post5d {
+    display: flex;
+    padding-top: 15px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.post6c {
+    margin-top: 10px;
+    margin-left: 18px;
+    border-radius:25px ;
+}
+.post7c {
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    padding-right: 20px;
+}
+.post7d {
+    display: flex;
+    padding-top: 15px;
+    margin-left: 70px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,74 @@
+.signin {
+    border: 1px solid grey;
+    height: 500px;
+    width: 550px;
+    margin-top: 50px;
+    margin-left: 350px;
+    border-radius: 20px;
+    background-color: black; 
+}
+.X {
+    font-size: 17px;
+}
+#close {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+}
+#close:hover {
+     color: grey;
+}
+.main {
+    padding-top: 10px;
+}
+#log_in {
+    color: black;
+    border-radius: 20px;
+    height: 40px;
+    width: 340px;
+    text-align: center;
+    border: 0px;
+}
+#user_name {
+    color: black;
+    border-radius: 5px;
+    height: 40px;
+    width: 340px;
+    text-align: center;
+    border: 0px;
+}
+.login {
+    padding-left: 100px;
+    padding-top: 15px;
+    text-align: left;
+}
+.username {
+    padding-left: 100px;
+}
+.passsword {
+    padding-left: 100px;
+    padding-top: 20px;
+}
+#pass {
+    color: black;
+    border-radius: 5px;
+    height: 40px;
+    width: 340px;
+    text-align: center;
+    border: 0px;
+}
+#sub {
+    color: white;
+    background-color: grey;
+    border-radius: 20px;
+    height: 40px;
+    width: 340px;
+    text-align: center;
+    border: 0px;
+}
+.Submit {
+    padding-left: 100px;
+    padding-top: 15px;
+    text-align: left;
+    
+}
